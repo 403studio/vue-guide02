@@ -1,0 +1,12 @@
+.movie-item {
+  clear: both;
+  width: 100%;
+  height: 230px;
+  border-bottom: 1px solid #ccc
+}
+.movie-poster {
+  float: left;
+  display: block;
+  width: 150px;
+  margin-right: 10px;
+}
